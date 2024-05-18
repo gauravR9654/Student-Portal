@@ -1,0 +1,95 @@
+.Teacher-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.greet-teacher {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.form-details {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.email-teacher {
+  display: flex;
+  align-items: center;
+}
+
+.email-teacher label {
+  margin-right: 10px;
+}
+
+.email-teacher input {
+  width: 330px;
+  margin-left: 27px;
+}
+label {
+  font-weight: bold;
+  display: block;
+}
+
+.password-student  {
+  margin-left: 30px;
+}
+
+.password-student input
+{
+  width: 330px;
+  margin-left: 30px;
+}
+
+
+
+.dropdown-option, .Branch-root
+{
+  margin-top: 40px;
+}
+.DropDown,.option-Branch
+{
+  margin-top: 30px;
+}
+
+input,
+select {
+  width: calc(100% - 20px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+option {
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+
+.submit-buttonform1 {
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.submit-buttonform1 button {
+  height: 50px;
+  width: 120px;
+  border-radius: 15px;
+  color: white;
+  transition: 1s;
+
+}
+
+.submit-buttonform1 button :hover
+{
+  cursor: pointer;
+}

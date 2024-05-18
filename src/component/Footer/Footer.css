@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(101, 101, 101);
+}
+
+.sizefoot {
+  display: flex;
+  padding: 4rem 4rem;
+
+  flex-direction: column;
+}
+
+.Inside {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.Link1 {
+    cursor: pointer;
+}

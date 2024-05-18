@@ -1,0 +1,65 @@
+
+.drawer
+{
+    margin-left: 20px;
+
+}
+
+
+.drawer h2 
+{
+    display: inline ;
+    text-align: center;
+    margin: 10px 550px;
+}
+
+.underline-drawer
+{
+    width: 100%;
+    height: 6px;
+    background: rgb(0, 0, 0);
+    border-radius: 29px;
+    
+}
+.underline-drawer-menu
+{
+    width: 100%;
+    height: 1px;
+    background: rgb(94, 93, 93);
+    border-radius: 29px;
+    
+}
+
+
+.inside-img image
+{
+    width:  "100px";
+    height: "100px"; 
+
+}
+
+.box1
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box2
+{
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.box3
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box4
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box5
+{
+    padding-top: 8px;
+    padding-bottom: 20px;
+}
